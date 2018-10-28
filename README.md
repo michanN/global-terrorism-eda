@@ -9,7 +9,8 @@
 5. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
-
+The only external libary necessary to run this code, beyond the Anaconda distribution of Python, is Plotly.
+Instructions on how to install Plotly can be found [here](https://plot.ly/python/getting-started/).
 ...
 
 ## Project Motivation <a name="motivation"></a>
