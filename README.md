@@ -13,7 +13,7 @@ The only external libary necessary to run this code, beyond the Anaconda distrib
 Instructions on how to install Plotly can be found [here](https://plot.ly/python/getting-started/).
 
 ## Project Motivation <a name="motivation"></a>
-The purpose of this project is twofold. First, I wanted to learn to better communicate my findings through visuals. Second, I was interested in using the Global Terrorism Database (1970 - 2018) to better understand:
+The purpose of this project is twofold. First, I wanted to learn to better communicate my findings through visuals. Second, I was interested in using the Global Terrorism Database (1970 - 2017) to better understand:
 1. Has the number of attacks increased over the years?
 2. Which are the most affected continents, countries, cities?
 3. Relationship between happiness score and terrorism?
