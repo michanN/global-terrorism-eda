@@ -27,7 +27,7 @@ The following are the files available in this repository:
 * `global-terrorism-analysis.ipynb` - a notebook of the analysis performed following the CRISP-DM process.
 * `globalterrorism_0718dist.csv` - csv file that contains the data.
 * `/BG/BM.jpg` and `/BG/BM_high.png` - background images used for plots.
-* `attacks.mp4` - video generated that shows attacks on a global map.
+* `attacks3.mp4` - video generated that shows attacks on a global map.
 
 ## Results <a name="results"></a>
 The main findings of the code can be found at the post available [here]().
