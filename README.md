@@ -20,7 +20,7 @@ The purpose of this project is twofold. First, I wanted to learn to better commu
     1. Number of attacks
     2. Casualties
     3. Successful/failed attacks
-3. Which type of attack is most common as well as most effective with regards to the number of casualties?
+3. Which type of attack has been the most common and killed most people over the years?
 
 ## File Descriptions <a name="files"></a>
 The following are the files available in this repository:
@@ -33,7 +33,7 @@ The following are the files available in this repository:
 The main findings of the code can be found at the post available [here]().
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
-Thank you to START (Kaggle.com) for the data. You can find the Licensing for the data and other descriptive information at the link available [here](https://www.kaggle.com/START-UMD/gtd).
+Thank you to START and Kaggle.com for the data. You can find the Licensing for the data and other descriptive information at the link available [here](https://www.kaggle.com/START-UMD/gtd).
 </br>
 </br>A big shoutout to Mat Leonard for writing this [blog post](https://medium.com/udacity/creating-map-animations-with-python-97e24040f17b). This post made it possible for me to create the video showing attacks around the world.
 </br>
