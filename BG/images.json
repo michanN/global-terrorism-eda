@@ -4,6 +4,7 @@
         "__comment__": "Blue Marble Next Generation, July ",
         "__source__": "https://neo.sci.gsfc.nasa.gov/view.php?datasetId=BlueMarbleNG-TB",
         "__projection__": "PlateCarree",
-        "low": "BM.jpg"
+        "low": "BM.jpg",
+        "high": "BM_high.png"
     }
 }
