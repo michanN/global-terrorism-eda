@@ -30,7 +30,11 @@ The following are the files available in this repository:
 * `attacks3.mp4` - video generated that shows attacks on a global map.
 
 ## Results <a name="results"></a>
-The main findings of the code can be found at the post available [here]().
+This analysis shows an increase in attacks as well as people affected over the years. This is most evident in the Middle East, Sub-Saharan Africa, and South Asia.
+
+With 81,976 attacks and 156,924 people killed bombing has without a doubt been the most frequently used method as well as the second most deadly attack behind armed assault which has killed 159,799.
+
+A more detailed discussion can be found at the post available [here](https://medium.com/@michel.naslund/a-journey-through-the-global-terrorism-database-ce35076d5289).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Thank you to START and Kaggle.com for the data. You can find the Licensing for the data and other descriptive information at the link available [here](https://www.kaggle.com/START-UMD/gtd).
